@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.svn
+/.vs/DotNet Framework Version Finder/v14
+/ConsoleApplication1/bin
+/ConsoleApplication1/obj
+/_ReSharper.Caches/ReSharperPlatformVs144.DotNet Framework Version Finder
