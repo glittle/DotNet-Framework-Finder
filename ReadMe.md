@@ -4,7 +4,7 @@ A very simple console program to report on which version of the .NET Framework i
 
 Only works with .NET Framework 4.5+.
 
-You can fork this repository to build the program yourself, or 
+You can clone this repository to build the program yourself, or 
 simply download and run 
 the [DotNetFrameworkVersion.exe](https://github.com/glittle/DotNet-Framework-Finder/blob/master/ConsoleApplication1/bin/Release/DotNetFrameworkVersion.exe?raw=true) file.
 
